@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Feb 28 14:57:29 WAT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018d-f001-89d7-00000a07b010 
+on database directory C:\Users\nyemi\Documents\javadb\deiteldb with class loader sun.misc.Launcher$AppClassLoader@45ee12a7 
+Loaded from file:/C:/Users/nyemi/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=c:\Users\nyemi\Documents\clojure\my-clojure\bookstore
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
