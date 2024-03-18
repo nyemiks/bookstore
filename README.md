@@ -1,6 +1,7 @@
 # bookstore
+Practice exercises implemented in clojure from the book "Java How to program 9th edition" (from chapter 28). A bookstore app and an address book app.
 
-FIXME: description
+The goal was to practice clojure jdbc, unit testing and rest api development.
 
 ## Installation
 
